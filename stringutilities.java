@@ -1,1 +1,1 @@
-This java contains string utilities
+This java contains string utilities and functions.
